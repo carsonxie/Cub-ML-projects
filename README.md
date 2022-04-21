@@ -6,7 +6,7 @@
 
 #### [Project 3 NLP Application -- News Classification](https://github.com/carsonxie/Machine-Learning-Projects/tree/main/NLP_News%20Classification%20Project)
 
-#### [Project 4 Spark and Big Data -- Analysising and Predicting User Churn rate]()
+#### [Project 4 Spark and Big Data -- Analysising and Predicting User Churn rate](https://github.com/carsonxie/Machine-Learning-Projects/tree/main/Spark%20User%20Churning)
 
 #### [Capstone Project 1 -- Supervised Learning method]
 
