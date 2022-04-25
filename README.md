@@ -8,8 +8,8 @@
 
 #### [Project 4 Spark and Big Data -- Analysising and Predicting User Churn rate](https://github.com/carsonxie/Machine-Learning-Projects/tree/main/Spark%20User%20Churning)
 
-#### [Capstone Project 1 -- Supervised Learning method]
+#### [C1 -- Supervised Learning method]
 
-#### [Capstone Project 2 -- Unsupervised Learning method]
+#### [C2 -- Unsupervised Learning method]
 
-#### [Capstone Project 3 -- Deep Learning Method](https://github.com/carsonxie/Machine-Learning-Projects/tree/main/Capstone%20Project%203%20--%20Deep%20Learning%20Method)
+#### [C3 -- Deep Learning Method](https://github.com/carsonxie/Machine-Learning-Projects/tree/main/Capstone%20Project%203%20--%20Deep%20Learning%20Method)
